@@ -58,9 +58,9 @@ _Briefly describe your approach and key findings:_
 ## 🔍 Key Findings Highlight
 
 **Main attack vectors identified:**
-1. ___________
-2. ___________
-3. ___________
+1. Broken Access Controls (IDOR)
+2. Phishing Campaign
+3. SQL Injection
 
 **Most critical vulnerability:**
 SQL Injection
